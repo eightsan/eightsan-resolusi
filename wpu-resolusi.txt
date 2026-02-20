@@ -3,5 +3,4 @@ WPU resolusi
 - Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
 - Membuat merchandise shop
-- Kolaborasi dengan lebih banyak expert
 - Membuat vlog
